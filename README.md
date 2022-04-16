@@ -18,7 +18,7 @@ After installation execute the following command:
 dotnet build Calculator.sln
 ```
 
-Code coverage
+Code coverage!
 ========
 Please note code coverage can't be measured on Java 9 due to open issue in cobertura: https://github.com/cobertura/cobertura/issues/271
 
